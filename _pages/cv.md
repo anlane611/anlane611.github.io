@@ -11,49 +11,85 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S.P.H. in Biostatistics, UNC Chapel Hill, 2016
+* B.A. in Mathematics, UNC Chapel Hill, 2016
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March 2019-present: Research Assistant
+  * Atlanta VA Medical Center
+  * Supervisor: Dr. David Benkeser
+    
+* March 2015-March 2016: Undergraduate Research Assistant
+  * Frank Porter Graham Child Development Institute
+  * Supervisor: Elizabeth Gunn
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2013-May 2016: Undergraduate Research Assistant
+  * UNC Chapel Hill
+  * Supervisor: Dr. Nicholas Battista, Dr. Laura Miller
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+    
+Teaching
+======
+* March 2020: Workshop Instructor
+  * Agnes Scott College Data Science Bootcamp
+  * Introduction to R and Biostatistics
+
+* August 2019-December 2019: Lead Instructor
+  * Emory University
+  * Statistical Methods I Lab
+    
+* May 2019-July 2019: Lead Graduate Mentor
+  * Emory University Summer Institute in Biostatistics
+  * Supervisor: Dr. Renee Moore
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* October 2019: Poster and speed talk
+  * "Testing Presence-Absence Association in the Microbiome Using LDM and PERMANOVA"
+  * Women in Statistics and Data Science Conference
+
+* August 2019: Invited panelist
+  * "Young Adults with LGMD", "Travel and Recreation with LGMD"
+  * Limb Girdle Muscular Dystrophy Conference
+    
+* July 2019: Invited speaker
+  * "Navigating Young Adulthood with LGMD"
+  * Speak Foundation Conference
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* December 2018: Invited speaker
+  * "An Introduction to Emory Biostatistics"
+  * Association for Women in Mathematics Seminar
+  * Agnes Scott College
+
+* July 2015: Speaker
+  * "The Effects of Environmental Factors and the BRCA Genetic Mutation on Ovarian Cancer Risk"
+  * Pipelines into Biostatistics Annual Symposium
+  * Harvard T.H. Chan School of Public Health
   
+* October 2014: Speaker
+  * "Bumps and Ridges:  Effects of Trabeculae in Heart Morphogenesis"
+  * UNC Greensboro Regional Mathematics and Statistics Conference
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* October 2019: Session Chair
+  * Working and Thriving with Disability in the Statistical Sciences
+  * Women in Statistics and Data Science Conference
+
+* January 2019: Student representative
+  * Biostatistics PhD Admissions committee
+  * Emory University
+  
+* December 2018: Student representative
+  * Biostatistics Assistant Director of Academic Programs Hiring Committee
+  * Emory University
+  
+* August 2017-May 2018: PhD student representative
+  * Biostatistics Student Council
+  * Emory University
