@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year PhD student in the [Department of Biostatistics and Bioinformatics](https://www.sph.emory.edu/departments/bios/index.html) at Emory University. My dissertation advisor is [Dr. Hao Wu](haowulab.org). We are currently working on novel statistical approaches to detect a mediation effect while accounting for a latent variable (e.g. cell type), with primary application to DNA methylation and gene expression data. 
+I am a 4th year PhD student in the [Department of Biostatistics and Bioinformatics](https://www.sph.emory.edu/departments/bios/index.html) at Emory University. My dissertation advisor is [Dr. Hao Wu](http://www.haowulab.org/). We are currently working on novel statistical approaches to detect a mediation effect while accounting for a latent variable (e.g. cell type), with primary application to DNA methylation and gene expression data. 
 
 I am currently collaborating with [Dr. Nina Guzzetta](https://www.pedsresearch.org/people/faculty/nina-guzzetta-md) (Children's Healthcare of Atlanta), [Dr. Lawrence Phillips](http://diabetes.emory.edu/people/affiliated_faculty_and_fellows/phillips.html) (Atlanta VA Medical Center), and [Dr. Lisa Haddad](https://med.emory.edu/departments/gynecology-obstetrics/profile/?u=LBHADDA) (Emory School of Medicine). I have also pursued multiple teaching opportunities as a PhD student, including introductory SAS programming for Health Policy masters students and introductory statistics for undergraduate students. After I complete my PhD, I plan to pursue an academic position.
 
