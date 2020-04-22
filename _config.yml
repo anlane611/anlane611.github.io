@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrea Lane"
-  avatar           : "_images/AndreaLane copy.png"
+  avatar           : "https://anlane611.github.io/images/AndreaLane copy.png"
   bio              : "Biostatistics PhD student at Emory University"
   location         : "Atlanta, GA"
   employer         :
