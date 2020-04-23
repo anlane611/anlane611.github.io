@@ -93,3 +93,9 @@ Service and leadership
 * August 2017-May 2018: PhD student representative
   * Biostatistics Student Council
   * Emory University
+
+Honors and Fellowships
+======
+* NSF Graduate Research Fellowship
+* Emory Diversity Graduate Fellowship
+* Phi Beta Kappa
