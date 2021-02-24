@@ -16,11 +16,11 @@ Education
 
 Work experience
 ======
-* March 2019-present: Research Assistant
+* Mar. 2019-July 2020: Research Assistant
   * Atlanta VA Medical Center
   * Supervisor: Dr. David Benkeser
     
-* March 2015-March 2016: Undergraduate Research Assistant
+* Mar. 2015-Mar. 2016: Undergraduate Research Assistant
   * Frank Porter Graham Child Development Institute
   * Supervisor: Elizabeth Gunn
 
@@ -36,13 +36,13 @@ Publications
     
 Teaching
 ======
-* March 2020: Workshop Instructor
-  * Agnes Scott College Data Science Bootcamp
-  * Introduction to R and Biostatistics
-
-* August 2019-December 2019: Lead Instructor
+* Aug. 2020-Dec. 2020; Aug. 2019-Dec. 2019: Lead Instructor
   * Emory University
   * Statistical Methods I Lab
+
+* Mar. 2020: Workshop Instructor
+  * Agnes Scott College Data Science Bootcamp
+  * Introduction to R and Biostatistics
     
 * May 2019-July 2019: Lead Graduate Mentor
   * Emory University Summer Institute in Biostatistics
@@ -50,11 +50,11 @@ Teaching
   
 Talks
 ======
-* October 2019: Poster and speed talk
+* Oct. 2019: Poster and speed talk
   * "Testing Presence-Absence Association in the Microbiome Using LDM and PERMANOVA"
   * Women in Statistics and Data Science Conference
 
-* August 2019: Invited panelist
+* Aug. 2019: Invited panelist
   * "Young Adults with LGMD", "Travel and Recreation with LGMD"
   * Limb Girdle Muscular Dystrophy Conference
     
@@ -62,7 +62,7 @@ Talks
   * "Navigating Young Adulthood with LGMD"
   * Speak Foundation Conference
   
-* December 2018: Invited speaker
+* Dec. 2018: Invited speaker
   * "An Introduction to Emory Biostatistics"
   * Association for Women in Mathematics Seminar
   * Agnes Scott College
@@ -72,25 +72,25 @@ Talks
   * Pipelines into Biostatistics Annual Symposium
   * Harvard T.H. Chan School of Public Health
   
-* October 2014: Speaker
+* Oct. 2014: Speaker
   * "Bumps and Ridges:  Effects of Trabeculae in Heart Morphogenesis"
   * UNC Greensboro Regional Mathematics and Statistics Conference
 
 Service and leadership
 ======
-* October 2019: Session Chair
+* Oct. 2019: Session Chair
   * Working and Thriving with Disability in the Statistical Sciences
   * Women in Statistics and Data Science Conference
 
-* January 2019: Student representative
+* Jan. 2019: Student representative
   * Biostatistics PhD Admissions committee
   * Emory University
   
-* December 2018: Student representative
+* Dec. 2018: Student representative
   * Biostatistics Assistant Director of Academic Programs Hiring Committee
   * Emory University
   
-* August 2017-May 2018: PhD student representative
+* Aug. 2017-May 2018: PhD student representative
   * Biostatistics Student Council
   * Emory University
 
