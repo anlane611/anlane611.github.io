@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 5th year PhD candidate in the [Department of Biostatistics and Bioinformatics](https://www.sph.emory.edu/departments/bios/index.html) at Emory University. My dissertation advisor is [Dr. Hao Wu](http://www.haowulab.org/). We are developing novel statistical approaches to detect a mediation effect while accounting for a latent variable (e.g. cell type), with primary application to DNA methylation and gene expression data. 
+I am a PhD candidate in the [Department of Biostatistics and Bioinformatics](https://www.sph.emory.edu/departments/bios/index.html) at Emory University. My dissertation advisor is [Dr. Hao Wu](http://www.haowulab.org/). We are developing novel statistical approaches to detect a mediation effect while accounting for a latent variable (e.g. cell type), with primary application to DNA methylation and gene expression data. 
 
 I am currently collaborating with [Dr. Nina Guzzetta](https://www.pedsresearch.org/people/faculty/nina-guzzetta-md) (Children's Healthcare of Atlanta) to analyze the impact of blood product exposures on antibody development in pediatric heart transplant patients. I am also a research assistant in [Dr. Anke Hüls's lab](https://www.huelslab.org/anke-huels) (Department of Epidemiology and Gangarosa Department of Environmental Health). We are evaluating and comparing methods of generating metabolomics risk scores.
 
