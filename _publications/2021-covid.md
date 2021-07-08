@@ -1,5 +1,5 @@
 ---
-title: One-Stop Serum Assay Identifies COVID-19 Disease Severity and Vaccination Responses
+title: 'One-Stop Serum Assay Identifies COVID-19 Disease Severity and Vaccination Responses'
 collection: publications
 date: 2021-05-17
 venue: 'Immunohorizons'
