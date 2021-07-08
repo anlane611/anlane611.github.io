@@ -123,6 +123,10 @@ Service and leadership
 * Mar. 2020-present: Founder, President
   * Emory ASA Student Chapter
 
+* Nov. 2020: Organizer
+  * Inaugural Virtual Research Symposium on Racial and Social Disparities, Inequities, and Injustice
+  * Emory University
+
 * Oct. 2019: Session Chair
   * Working and Thriving with Disability in the Statistical Sciences
   * Women in Statistics and Data Science Conference
