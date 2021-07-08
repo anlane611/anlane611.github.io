@@ -1,5 +1,5 @@
 ---
-title: A Rarefaction-Based Extension of the LDM for Testing Presence-Absence Associations in the Microbiome
+title: 'A Rarefaction-Based Extension of the LDM for Testing Presence-Absence Associations in the Microbiome'
 collection: publications
 date: 2021-01-21
 venue: 'Bioinformatics'
