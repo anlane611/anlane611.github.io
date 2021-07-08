@@ -28,7 +28,7 @@ Dissertation Research
 * Advisor: Dr. Hao Wu
 * Committee: Dr. David Benkeser, Dr. Karen Conneely, Dr. Amita Manatunga
 
-Work experience
+Research experience
 ======
 * May 2021-present: Research Assistant
   * Emory University
@@ -159,3 +159,8 @@ Supplemental Coursework & Professional Development
 
 * Lab in Professional Communication
   * Emory University
+
+Skills
+=====
+* Programming: R/R Markdown, SAS, Julia, Matlab
+* Other: LaTeX, Microsoft Office, Linux command line
